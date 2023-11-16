@@ -1,0 +1,18 @@
+GET     /                           controllers.StatController.info
+
+GET     /stat                       controllers.StatController.countCar
+
+GET     /colors                     controllers.StatController.getAllColors
+GET     /brands                     controllers.StatController.getAllBrands
+
+GET     /allCars                    controllers.CarController.getAll
+GET     /allCarsByBrand             controllers.CarController.getAllByBrand(brand: String)
+GET     /allCarsByColor             controllers.CarController.getAllByColor(color: String)
+
+GET     /someCar                    controllers.CarController.get(number: String)
+
+DELETE  /cars/delete                controllers.CarController.delete(number: String)
+POST    /cars/add                   controllers.CarController.add
+
+
+
