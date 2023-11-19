@@ -27,6 +27,37 @@ REST API приложение в стиле CRUD. Приложения для х
 
 Примеры:
 
+Стартовая страница.
+
+![image](https://github.com/Glaymor/car-reference-api/assets/91942559/def3cf48-80e7-459c-8670-21dbdf7b0dd1)
+
+Получение всех автомобилей
+
+![image](https://github.com/Glaymor/car-reference-api/assets/91942559/0c1f27d4-b8ab-4c46-9ad2-0258caef5078)
+
+Получение всех цветов
+
+![image](https://github.com/Glaymor/car-reference-api/assets/91942559/8fa5a445-dc50-4635-bbac-0bdfce9cfca9)
+
+Получение всех автомобилей с белым цветом 
+
+![image](https://github.com/Glaymor/car-reference-api/assets/91942559/e389ce36-5b76-4cc5-ba85-90a29976a6dc)
+
+Добавление авто
+
+![image](https://github.com/Glaymor/car-reference-api/assets/91942559/7298ffa3-3144-4582-bcfc-a2880f42e6df)
+
+Получение авто по номеру
+
+![image](https://github.com/Glaymor/car-reference-api/assets/91942559/9929764d-2ba9-434e-9ba0-1004c49e49b9)
+
+
+
+
+
+
+
+
 
 
 
