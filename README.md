@@ -51,6 +51,11 @@ REST API приложение в стиле CRUD. Приложения для х
 
 ![image](https://github.com/Glaymor/car-reference-api/assets/91942559/9929764d-2ba9-434e-9ba0-1004c49e49b9)
 
+Удаление
+
+![image](https://github.com/Glaymor/car-reference-api/assets/91942559/32ef6660-7108-49b5-b67b-4851ab412ffe)
+
+
 
 
 
